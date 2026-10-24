@@ -5,11 +5,12 @@
 
 ---
 
-## 🔗 母知識庫直達通道 (Master Knowledge Base Link)
+## 🌐 三位一體立體知識網絡通道 (Tri-Wiki Navigation)
 
 > [!NOTE]
-> 本課程子庫之野外考察路線、田野地質地景、大型專案行政核銷與行動研究論文，均完整典藏於母知識庫：  
-> 🔗 **[麗山生物營隊與公民科學家母知識庫 (Master Wiki)](file:///Users/froglssh/Library/CloudStorage/GoogleDrive-frog@lssh.tp.edu.tw/我的雲端硬碟/12生物營隊/生物營隊知識庫/index.md)**
+> **本課程子庫與另外兩座知識庫緊密互聯，構成三位一體立體知識體系**：  
+> 1. 🌲 **[麗山生物營隊與公民科學家母知識庫 (Master Wiki)](file:///Users/froglssh/Library/CloudStorage/GoogleDrive-frog@lssh.tp.edu.tw/我的雲端硬碟/12生物營隊/生物營隊知識庫/index.md)**：10年營隊大歷史、野外實察路線、專案經費核銷、安全與野外急救防護網。
+> 2. 🏆 **[公民科學家 課程發表與得獎子知識庫 (Awards Wiki)](file:///Users/froglssh/Library/CloudStorage/GoogleDrive-frog@lssh.tp.edu.tw/我的雲端硬碟/09課程發表/1公民科學家/index.md)**：天下文化未來100、全國 KDP 國際認證、臺北市行動研究雙特優、優質化嘉年華巨幅海報展與優質學校論述。
 
 ---
 
